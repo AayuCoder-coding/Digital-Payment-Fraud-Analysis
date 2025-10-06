@@ -3,7 +3,7 @@ This project analyzes India's UPI transaction trends using data from the officia
 
 ## Project Structure
  phonepe-upi-insights/
-├── app.py # Streamlit dashboard  link - (https://phonepeproject-jru4nwepappvx8j2efuu5xx.streamlit.app/)
+├── app.py # Streamlit dashboard  link - ([Streamlit link](https://phonepeproject-jru4nwepappvx8j2efuu5xx.streamlit.app/))
 ├── report.pdf # Final report 
 ├── requirements.txt # Python dependencies
 ├── final_aggregated_data.csv # Cleaned transaction data

@@ -1,5 +1,5 @@
 # PhonePe UPI Transaction Insights (National Level)
-This project analyzes India's UPI transaction trends using data from the official [PhonePe Pulse](https://www.phonepe.com/pulse/) GitHub repository. The analysis focuses on **national-level transaction types** over time and presents visual insights through an interactive Streamlit dashboard.
+This project analyzes India's UPI transaction trends using data from the official ([PhonePe Pulse](https://www.phonepe.com/pulse/)) GitHub repository. The analysis focuses on **national-level transaction types** over time and presents visual insights through an interactive Streamlit dashboard.
 
 ## Project Structure
  phonepe-upi-insights/
@@ -39,7 +39,7 @@ streamlit run app.py
 ```
 ## Data Source
 All data is sourced from the open-source repository:
-https://github.com/PhonePe/pulse
+([Data link]https://github.com/PhonePe/pulse)
 
 ## Future Scope
 - Add state-wise and district-wise maps

@@ -39,7 +39,7 @@ streamlit run app.py
 ```
 ## Data Source
 All data is sourced from the open-source repository:
-([Data link]https://github.com/PhonePe/pulse)
+([Data link](https://github.com/PhonePe/pulse)
 
 ## Future Scope
 - Add state-wise and district-wise maps

@@ -12,7 +12,7 @@ The dashboard provides comprehensive transaction insights through interactive vi
 
 🚀 **Streamlit Dashboard**
 
-**([LINK](https://phonepeproject-jru4nwepappvx8j2efuu5xx.streamlit.app/))**
+**[LINK](https://phonepeproject-jru4nwepappvx8j2efuu5xx.streamlit.app/)**
 
 ---
 
